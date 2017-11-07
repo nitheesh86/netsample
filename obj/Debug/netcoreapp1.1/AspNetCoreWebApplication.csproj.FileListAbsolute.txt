@@ -1,0 +1,10 @@
+C:\Users\nitheesh86\source\repos\sample.net\AspNetCoreWebApplication\bin\Debug\netcoreapp1.1\AspNetCoreWebApplication.deps.json
+C:\Users\nitheesh86\source\repos\sample.net\AspNetCoreWebApplication\bin\Debug\netcoreapp1.1\AspNetCoreWebApplication.runtimeconfig.json
+C:\Users\nitheesh86\source\repos\sample.net\AspNetCoreWebApplication\bin\Debug\netcoreapp1.1\AspNetCoreWebApplication.runtimeconfig.dev.json
+C:\Users\nitheesh86\source\repos\sample.net\AspNetCoreWebApplication\bin\Debug\netcoreapp1.1\AspNetCoreWebApplication.dll
+C:\Users\nitheesh86\source\repos\sample.net\AspNetCoreWebApplication\bin\Debug\netcoreapp1.1\AspNetCoreWebApplication.pdb
+C:\Users\nitheesh86\source\repos\sample.net\AspNetCoreWebApplication\obj\Debug\netcoreapp1.1\AspNetCoreWebApplication.csproj.CoreCompileInputs.cache
+C:\Users\nitheesh86\source\repos\sample.net\AspNetCoreWebApplication\obj\Debug\netcoreapp1.1\AspNetCoreWebApplication.AssemblyInfoInputs.cache
+C:\Users\nitheesh86\source\repos\sample.net\AspNetCoreWebApplication\obj\Debug\netcoreapp1.1\AspNetCoreWebApplication.AssemblyInfo.cs
+C:\Users\nitheesh86\source\repos\sample.net\AspNetCoreWebApplication\obj\Debug\netcoreapp1.1\AspNetCoreWebApplication.dll
+C:\Users\nitheesh86\source\repos\sample.net\AspNetCoreWebApplication\obj\Debug\netcoreapp1.1\AspNetCoreWebApplication.pdb
